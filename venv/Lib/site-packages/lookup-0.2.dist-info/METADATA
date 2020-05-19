@@ -1,0 +1,31 @@
+Metadata-Version: 2.0
+Name: lookup
+Version: 0.2
+Summary: Dictionary via the command line
+Home-page: https://github.com/fengsp/lookup
+Author: Shipeng Feng
+Author-email: fsp261@gmail.com
+License: BSD
+Platform: any
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Requires-Dist: pyquery
+Requires-Dist: requests
+
+lookup
+------
+
+Look up words via the command line.
+
+Links
+`````
+
+* `documentation <https://github.com/fengsp/lookup>`_
+* `development version
+  <http://github.com/fengsp/lookup/zipball/master#egg=lookup-dev>`_
+
+
+
